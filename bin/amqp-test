@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+java -jar jdbc-test-assembly-1.0.jar $@
